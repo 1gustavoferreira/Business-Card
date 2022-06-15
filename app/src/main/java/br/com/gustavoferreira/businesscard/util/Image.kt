@@ -68,7 +68,7 @@ class Image {
                     }
                 }
             } else {
-                // These for devices running on android < Q
+                //devices < Q
                 val imagesDir = context.getExternalFilesDir(Environment.DIRECTORY_PICTURES)
                 val image = File(imagesDir, filename)
                 val imageUri: Uri =

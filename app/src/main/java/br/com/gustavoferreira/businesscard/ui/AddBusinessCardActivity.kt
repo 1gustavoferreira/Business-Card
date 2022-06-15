@@ -25,10 +25,10 @@ class AddBusinessCardActivity : AppCompatActivity() {
     }
 
     private fun insertListeners(){
-        binding.btnClose.setOnClickListener {
+        binding.closeBtn.setOnClickListener {
             finish()
         }
-        binding.btnConfirm.setOnClickListener {
+        binding.confirmBtn.setOnClickListener {
             val businessCard = BusinessCard(
                 name = binding.tilName.editText?.text.toString(),
                 telephone = binding.tilTelephone.editText?.text.toString(),

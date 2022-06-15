@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ferre/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/ferre/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_baseline_arrow_circle_left_24.xml" value="0.1115" />
         <entry key="..\:/Users/ferre/AndroidStudioProjects/BusinessCard/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1" />
-        <entry key="..\:/Users/ferre/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/activity_add_business_card.xml" value="0.1" />
-        <entry key="..\:/Users/ferre/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ferre/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/activity_add_business_card.xml" value="0.22" />
+        <entry key="..\:/Users/ferre/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/activity_main.xml" value="0.28353658536585363" />
         <entry key="..\:/Users/ferre/AndroidStudioProjects/BusinessCard/app/src/main/res/layout/item_business_card.xml" value="0.1" />
       </map>
     </option>
